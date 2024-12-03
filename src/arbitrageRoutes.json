@@ -1,0 +1,435 @@
+[
+  {
+    "cycle": [
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    ],
+    "cycleWeight": 1.4038102006959514,
+    "steps": [
+      {
+        "fromToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x9a72FC3Fb9E99087d2eAE500355E7902C763f9B3"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0xD90d522211f7A887fd833eCECed83A3019E0Fc6c"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    ],
+    "cycleWeight": 1.4038102006959514,
+    "steps": [
+      {
+        "fromToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x9a72FC3Fb9E99087d2eAE500355E7902C763f9B3"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0xD90d522211f7A887fd833eCECed83A3019E0Fc6c"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    ],
+    "cycleWeight": 1.4038102006959514,
+    "steps": [
+      {
+        "fromToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x9a72FC3Fb9E99087d2eAE500355E7902C763f9B3"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0xD90d522211f7A887fd833eCECed83A3019E0Fc6c"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    ],
+    "cycleWeight": 1.4038102006959514,
+    "steps": [
+      {
+        "fromToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x9a72FC3Fb9E99087d2eAE500355E7902C763f9B3"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0xD90d522211f7A887fd833eCECed83A3019E0Fc6c"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    ],
+    "cycleWeight": 1.3175523603629953,
+    "steps": [
+      {
+        "fromToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x7109C674e52b14FCFb8A04ffe254f454f9C61C18"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0x9Ceca832a91f1e74C10FF46fDBC413F50dC7f3DA"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    ],
+    "cycleWeight": 1.3175523603629953,
+    "steps": [
+      {
+        "fromToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x7109C674e52b14FCFb8A04ffe254f454f9C61C18"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0x9Ceca832a91f1e74C10FF46fDBC413F50dC7f3DA"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    ],
+    "cycleWeight": 1.4648676907735738,
+    "steps": [
+      {
+        "fromToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "toToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498"
+      },
+      {
+        "fromToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x13B87f1f99D74a6CFD0D84a74ea4d9532469cbAd"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      }
+    ],
+    "type": "non-cyclic"
+  },
+  {
+    "cycle": [
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    ],
+    "cycleWeight": 1.3175523603629953,
+    "steps": [
+      {
+        "fromToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x7109C674e52b14FCFb8A04ffe254f454f9C61C18"
+      },
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 500,
+        "poolAddress": "0x9Ceca832a91f1e74C10FF46fDBC413F50dC7f3DA"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    ],
+    "cycleWeight": 1.462054170120278,
+    "steps": [
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 3000,
+        "poolAddress": "0x33016DF701b323c33cc027146c6a9e0997B2a923"
+      },
+      {
+        "fromToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x13B87f1f99D74a6CFD0D84a74ea4d9532469cbAd"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    ],
+    "cycleWeight": 1.462054170120278,
+    "steps": [
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 3000,
+        "poolAddress": "0x33016DF701b323c33cc027146c6a9e0997B2a923"
+      },
+      {
+        "fromToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x13B87f1f99D74a6CFD0D84a74ea4d9532469cbAd"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    ],
+    "cycleWeight": 1.462054170120278,
+    "steps": [
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 3000,
+        "poolAddress": "0x33016DF701b323c33cc027146c6a9e0997B2a923"
+      },
+      {
+        "fromToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x13B87f1f99D74a6CFD0D84a74ea4d9532469cbAd"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      }
+    ],
+    "type": "cyclic"
+  },
+  {
+    "cycle": [
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    ],
+    "cycleWeight": 1.462054170120278,
+    "steps": [
+      {
+        "fromToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "toToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 3000,
+        "poolAddress": "0x33016DF701b323c33cc027146c6a9e0997B2a923"
+      },
+      {
+        "fromToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "toToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "dex": "UniswapV3",
+        "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+        "feeTier": 10000,
+        "poolAddress": "0x13B87f1f99D74a6CFD0D84a74ea4d9532469cbAd"
+      },
+      {
+        "fromToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "toToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "dex": "QuickSwap",
+        "router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+        "feeTier": 3000,
+        "poolAddress": "0x298795c8b83fF6Dd42b99DaFdB295A48F7B05Ac1"
+      }
+    ],
+    "type": "cyclic"
+  }
+]
